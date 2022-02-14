@@ -1,5 +1,5 @@
 import math
-from collections.abc import Iterable
+from collections import Iterable
 from itertools import count
 
 import sbol3
